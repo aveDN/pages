@@ -12,4 +12,4 @@
 
 ---
 
-[Картинка](/img/ebn_wSkIN0w.jpg)
+![img](/img/ebn_wSkIN0w.jpg)
